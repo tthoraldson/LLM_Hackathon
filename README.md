@@ -11,4 +11,4 @@ One of the first round winners of the inverse scaling competition constructed a 
 - [Writeup](https://github.com/tthoraldson/LLM_Hackathon/blob/main/LMM_Hackathon_Final_submission.pdf)
 
 ![](assets/thinker.png)
-![](assets/certificate.png)
+![](assets/Certificate.png)
