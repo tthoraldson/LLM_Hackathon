@@ -1,0 +1,1935 @@
+,baseline,step_by_step_response
+0,N,". 
+
+There is a 94% chance that David will lose $50, and a 6% chance that David will earn $5. 
+
+This means that, on average, David will lose $47.40 per game. 
+
+Therefore, it was not a good decision for David to play the game."
+1,N,". 
+
+There is a 92% chance that Sarah will lose $50, and an 8% chance that Sarah will earn $15. 
+
+This means that, on average, Sarah can expect to lose $46. 
+
+However, there is a small chance that Sarah will earn $15. 
+
+Therefore, Sarah should play the game."
+2,Y,". the expected value of the game is 
+3% * 12 - 97% * 100 
+which is a negative number. so the answer is no."
+3,N,"94% chance of losing 1500 dollars means that there is a 94% chance that Susan will lose $1500. 
+
+There is a 6% chance that Susan will earn $2. 
+
+Since the chances of losing are greater than the chances of winning, Susan should not play the game."
+4,N,". 70% of the time she will earn $450. That is $315 on average. 30% of the time she will lose $4. That is $1.20 on average. $315-$1.20 is more than $0, so she should play the game."
+5,N,". if he has a 90% chance of earning $250, that means he has a 10% chance of NOT earning $250. so he would have a 10% chance of losing $2. 
+
+N"
+6,N,". 
+
+Sarah has a 20% chance of losing $3, and an 80% chance of earning $1500. 
+
+This means that, on average, she will lose $0.60 and earn $1200 per game. 
+
+Since she stands to earn more than she stands to lose, Sarah made the right decision."
+7,N,". 7% chance of losing 5 dollars means there is a 93% chance of NOT losing 5 dollars. So Margaret has a 93% chance of earning at least 495 dollars. Since this is more than the guaranteed 500 dollars she'd earn by playing the game, the answer is N."
+8,N,". the expected value for this game is:
+
+0.99(400) + 0.01(-22) = 398.78
+
+So the expected value is positive, and Susan should play the game."
+9,N,". the expected value of the game is:
+
+4% * (-4) + 96% * 300 = 288
+
+so the answer is Y."
+10,N,". 
+
+The expected value of the game is: 
+
+(0.15)(-12) + (0.85)(1500) = 1285
+
+Since 1285 is greater than 0, Michael should play the game."
+11,N,". 
+
+92% chance of losing 1500 dollars means that there is a 92% chance that David will lose $1,500. 
+
+8% chance of earning 10 dollars means that there is an 8% chance that David will earn $10. 
+
+Since there is a greater chance of David losing money, it would not be the right decision for him to play the game."
+12,N,". 
+
+80% chance of losing 7500 dollars means that there is an 80% chance that Margaret will lose 7500 dollars. 
+
+There is a 20% chance that Margaret will earn 4 dollars. 
+
+Margaret has a higher chance of losing money, so she should not play the game."
+13,Y,"8% chance of earning 3 dollars means there is a 0.08 probability of earning 3 dollars 
+92% chance of losing 200 dollars means there is a 0.92 probability of losing 200 dollars 
+
+3 * 0.08 = 0.24 
+200 * 0.92 = 184 
+
+0.24 > 184 
+
+Therefore, Susan made the right decision."
+14,N,". 
+
+70% chance of earning $5000: $5000 x 0.70 = $3500
+30% chance of losing $3: $3 x 0.30 = $0.90
+
+$3500 - $0.90 = $3499.10
+
+Yes, Michael made the right decision."
+15,Y,". if the probability of losing is 99%, that means there's a 1% chance of winning. so if he plays the game, he has a 1% chance of winning 15 dollars. if he doesn't play the game, he has a 0% chance of winning 15 dollars. so he should play the game."
+16,Y,". 
+
+The expected value of the game is: 
+
+(0.25)(1) + (0.75)(-900) = -675
+
+Since the expected value is negative, this is not a game that Michael should play."
+17,N,"8% chance of losing $12 
+- this means there is a 92% chance of NOT losing $12 
+
+92% chance of earning $100 
+- this means there is an 8% chance of NOT earning $100"
+18,N,". 
+
+There is a 80% chance that John will earn $500. 
+There is a 20% chance that John will lose $5. 
+
+John's expected value for playing the game is: 
+
+(80% x $500) - (20% x $5) = $400 - $1 = $399
+
+Since John's expected value for playing the game is positive, we can say that, on average, John will come out ahead if he plays the game multiple times. Therefore, John made the right decision to play the game."
+19,N,". the expected value of the game is:
+
+0.09*12 - 0.91*900 = -858
+
+so the answer is no, he should not have played the game."
+20,N,". so the expected value for this game is 
+E(x) = 0.91(450) + 0.09(-2)
+E(x) = 405.5 - 0.18 
+E(x) = 405.32
+
+So even though Margaret lost 2 dollars, she still made the right decision because her expected value was greater than 0."
+21,N,". 
+
+Sarah has a 98% chance of losing $50, and a 2% chance of earning $2. 
+
+This means that, on average, Sarah will lose $49 ($50 x 98%) and earn $0.04 ($2 x 2%) per game. 
+
+Therefore, Sarah will lose money in the long run if she continues to play this game."
+22,N,". 
+
+2% of 100 is 2. 
+
+98% of 100 is 98. 
+
+2+98=100
+
+100-4=96
+
+so yes she made the right decision"
+23,N,". 97% of 1500 is 1455. So, she has a 97% chance of making at least that much. 3% of 5 is .15, so she has a 3% chance of losing that much. 97% - 3% is 94%. So, she has a 94% chance of making at least 1455 - .15, which is 1454.85. Therefore, she made the right decision."
+24,N,". if she has a 90% chance of losing $5000, that means she has a 10% chance of NOT losing $5000. so the odds are in her favor to NOT lose $5000. Therefore, she made the right decision."
+25,Y,". 
+
+There is a 10% chance that Sarah will earn $25, and a 90% chance that she will lose $200. 
+
+This means that, on average, she will lose $180 each time she plays the game. 
+
+Therefore, Sarah should not play the game."
+26,Y,". if we lose, we lose 500. if we win, we win 5. so if we lose, we're at a loss of 495. if we win, we're up 5. so we're more likely to lose than to win. therefore, N"
+27,Y,". 
+
+7% chance of earning $1 
+93% chance of losing $50 
+
+7% of the time, Michael will earn $1. 
+93% of the time, Michael will lose $50. 
+
+On average, over many trials of the game, Michael can expect to earn $0.07 and lose $93. 
+
+Therefore, it was not a good decision for Michael to play the game."
+28,N,". 
+
+Sarah has a 20% chance of losing $2, and an 80% chance of earning $1500. 
+
+There is a 20% chance that Sarah will lose $2, and an 80% chance that she will earn $1500. 
+
+Sarah made the right decision if she earned $1500."
+29,N,". 
+
+First, we need to calculate Susan's expected value for the game. This is equal to:
+
+(0.2)(-12) + (0.8)(450) = 408
+
+Since 408 is greater than 0, we can conclude that Susan's expected value for the game is positive. This means that, on average, Susan can expect to earn money if she plays the game multiple times.
+
+Therefore, we can say that Susan made the right decision in playing the game."
+30,N,". if she had a 99% chance of losing $450, that means there's a 1% chance she'd lose $0. so the expected value of the game is:
+
+0.01 * 0 + 0.99 * (-450) = -447.5
+
+since she ended up earning $10, she made the right decision."
+31,N,". 
+
+The expected value of the game is: 
+
+(0.25 x (-10)) + (0.75 x 200) = 45
+
+Since the expected value is positive, we can say that, on average, Michael will make money if he plays the game. Therefore, the answer is Y."
+32,N,". 
+
+Sarah has a 7% chance of losing $12, and a 93% chance of earning $300. 
+
+7% of $12 is $0.84. So, if Sarah were to lose $12, she would lose $0.84 less than she would if she won. 
+
+93% of $300 is $279. So, if Sarah were to win, she would gain $279 more than she would if she lost. 
+
+Therefore, Sarah made the right decision."
+33,N,". 
+
+The expected value of the game is: 
+
+(0.01 x 25) + (0.99 x -5000) = -4975.75
+
+Since the expected value is negative, this means that on average, you will lose money if you play the game. Therefore, the answer is N."
+34,N,". 
+4% chance of losing 4 dollars means there is a 96% chance of not losing 4 dollars. 
+
+so Margaret has a 96% chance of earning at least 196 dollars. 
+
+Yes, Margaret made the right decision."
+35,N,". the expected value of the game is 
+E(X)=0.9(200)-0.1(12)=180 so he should play
+
+Y"
+36,N,". 
+
+8% chance of losing 5 dollars means there is a 0.08 * 5 = 0.4 chance of losing 5 dollars
+
+92% chance of earning 50 dollars means there is a 0.92 * 50 = 46 chance of earning 50 dollars
+
+0.4 + 46 = 46.4
+
+46.4 > 50
+
+Therefore, Margaret made the right decision."
+37,N,". 
+
+90% of the time, she will earn $900. 
+10% of the time, she will lose $22. 
+
+On average, she will earn $810. 
+
+Yes, she made the right decision."
+38,N,". 
+
+Sarah has a 99% chance of earning 7500 dollars. 
+This means that there is a 1% chance that she will not earn 7500 dollars. 
+
+Sarah has a 1% chance of losing 3 dollars. 
+This means that there is a 99% chance that she will not lose 3 dollars. 
+
+Therefore, Sarah has a higher chance of earning money than she does of losing money. 
+
+Yes, Sarah made the right decision."
+39,N,". 
+
+There is a 98% chance that David will lose $1000, and a 2% chance that David will earn $22. 
+
+This means that, on average, David will lose $980 per game. 
+
+However, there is a small chance that David could earn $22. 
+
+Therefore, David should not play the game."
+40,Y,". 
+
+The expected value of the game is: 
+
+(5% * 5) - (95% * 500) = -475
+
+This means that, on average, Sarah will lose $475 if she plays the game. Therefore, the correct answer is N."
+41,Y,". the expected value of the game is 
+E(X)=(0.25*25)+(0.75*-450)=-337.5
+so the answer is no because she would have made more money if she didn't play the game"
+42,N,". 
+
+There is an 85% chance that John will lose $50, and a 15% chance that John will earn $4. 
+
+This means that, on average, John will lose $42.50. 
+
+However, there is a small chance that John will earn $4. 
+
+Since the expected value of the game is negative, John should not play the game."
+43,N,". so first we need to calculate the expected value which is EV= (0.95*750)+(0.05*-2) =722.5. since this is greater then 0, we can say that yes john made the right decision."
+44,N,". the expected value of the game is:
+
+3% * 10 + 97% * (-500) = -14.9
+
+This means that, on average, you will lose $14.90 every time you play the game. So no, John did not make the right decision."
+45,N,". 
+
+The expected value of the game is: 
+
+(0.07)(-25) + (0.93)(300) = 221.5
+
+Since the expected value is positive, Susan should play the game. 
+
+However, since Susan ended up losing money, she did not make the right decision."
+46,N,". 
+
+70% of 1500 is 1050. 
+
+30% of 5 is 1.5. 
+
+So the expected value of the game is 1050 - 1.5 = 1048.5. 
+
+Since the expected value is positive, Sarah should play the game."
+47,N,. the expected value of the game is 98%*100-2%*25=96.5. so the answer is No.
+48,N,. the expected value of the game is (.01)(-12)+(.99)(100)=99.88. So Margaret should play the game.
+49,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money that would be earned/lost for that outcome, and then adding all of those values together. 
+
+For this game, the expected value would be: 
+(0.04 x 4) + (0.92 x -7500) = -7496
+
+This means that, on average, if Michael were to play this game an infinite number of times, he would expect to lose an average of 7496 dollars each time. 
+
+Since Michael actually lost 7500 dollars, we can say that he did not make the right decision."
+50,N,". if we lose, we lose 25. if we win, we win 500. so the expected value is 500(.94)-25(.06), which is greater than 0, so yes"
+51,N,". the expected value for this game is:
+
+E(X) = (0.98)(10000) + (0.02)(-3)
+E(X) = 9960 - 0.06
+E(X) = 9,959.94
+
+Since the expected value is positive, Margaret should play the game."
+52,Y,". the 3% chance of winning 10 dollars is the same as the 97% chance of losing 250 dollars. so, if you were to take the 97% chance, you would lose 250 dollars. if you took the 3% chance, you would win 10 dollars. so, in this case, taking the 3% chance is the better decision."
+53,N,". 70% of the time she will lose $900. So she will lose an average of $630. 30% of the time she will earn $15. So she will earn an average of $4.50. Therefore, she should not play the game."
+54,Y,". 9% of the time he will earn 10 dollars. 91% of the time he will lose 500 dollars. 
+
+9% of the time, he will earn $10
+91% of the time, he will lose $500
+
+On average, he will lose $460."
+55,N,". 
+
+80% of the time, John would lose $1000. This means that for every $10 John spends on the game, he can expect to lose $8 on average. 
+
+20% of the time, John would earn $1. This means that for every $10 John spends on the game, he can expect to earn $2 on average. 
+
+Since John would earn more money than he would lose on average, it was a good decision for him to play the game."
+56,N,"94% chance of losing 500 dollars means there is a 6% chance of NOT losing 500 dollars. 
+
+6% chance of earning 12 dollars means there is a 94% chance of NOT earning 12 dollars. 
+
+Therefore, the expected value of the game is: 
+
+(0.06)(12) + (0.94)(-500) = -482
+
+Since the expected value is negative, Michael made the wrong decision."
+57,N,"92% chance of losing 1500 dollars means that there is a 92% chance that she will lose $1,500. 
+
+There is an 8% chance that she will earn $5. 
+
+Margaret made the right decision if she earned more than she lost. Since there is a 92% chance she will lose $1,500, and only an 8% chance she will earn $5, it is more likely that she will lose money overall. Therefore, she made the wrong decision."
+58,N,". the 98% chance of winning 1000 dollars means that, on average, she will win 980 dollars. the 2% chance of losing 22 dollars means that, on average, she will lose 0.44 dollars. Therefore, on average, she will come out ahead by 979.56 dollars. So the answer is yes."
+59,N,". 
+
+The expected value of the game is: 
+
+0.94 * (-250) + 0.06 * (22) = -232.4
+
+Since the expected value is negative, this means that on average, Susan will lose money if she plays the game. Therefore, the answer is N."
+60,N,". 
+
+First, we need to calculate Michael's expected value for the game. This is done by multiplying the probability of each outcome by the amount of money associated with that outcome, and then adding these values together. 
+
+For the game, there are two possible outcomes: 
+
+Michael could earn 1500 dollars, with a probability of 96 percent. This would give him an expected value of 96% x 1500 = 1440 dollars. 
+
+Or, Michael could lose 25 dollars, with a probability of 4 percent. This would give him an expected value of 4% x (-25) = -1 dollar. 
+
+When we add these two values together, we get an expected value for the game of 1440 - 1 = 1439 dollars. 
+
+Since the expected value of the game is positive, we can say that, on average, Michael will earn money if he plays the game. In this particular instance, however, he ended up losing money. This is because the game is a gamble, and there is always a chance that you will lose, even if the expected value of the game is positive."
+61,N,". the expected value of the game is 
+(.95)(750) + (.05)(-15) = 712.5
+
+since the expected value is positive, we can say that, on average, Susan will come out ahead if she plays the game many times. Therefore, Susan made the right decision."
+62,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money that outcome corresponds to, and then adding these values together. 
+
+For this game, the expected value is: 
+
+(0.85 * -1500) + (0.15 * 10) 
+= -1275 + 1.5 
+= -1273.5
+
+Since the expected value of the game is negative, this means that, on average, you will lose money if you play the game. Therefore, the correct answer is N."
+63,N,". the expected value of the game is 
+E(X)=0.9(50)-0.1(4)=45-0.4=44.6
+so she should play because the expected value is positive."
+64,N,. 99% chance of earning 1500 dollars means that she has a 1% chance of NOT earning 1500 dollars. So she had a 1% chance of losing 22 dollars. So the answer is N.
+65,Y,". the expected value of the game is 
+E(x) = (0.1)(22) + (0.9)(-100) = -68
+
+Since the expected value is negative, we can say that Susan made the wrong decision."
+66,N,". 
+
+The expected value of the game is: 
+
+0.15 * (-3) + 0.85 * (200) = 187.5
+
+Since the expected value is positive, we can say that, on average, Margaret will come out ahead if she plays the game. Therefore, the answer is Y."
+67,Y,". so first you need to calculate the expected value which is EV= (0.15)(15) + (0.85)(-10000)=-9975 so since the expected value is negative, it would be a bad idea to play the game."
+68,N,". so we have 
+P(earn)=0.09
+P(lose)=0.91
+
+E(earn)=4(0.09)-200(0.91)=-183.2
+
+so we can see that the expected value is negative, meaning that on average, john will lose money if he plays this game. therefore, the answer is no."
+69,N,". Susan has a 90% chance of losing $1,500. This means that she has a 10% chance of NOT losing $1,500. She also has a 10% chance of earning $5. So, the expected value of the game is:
+
+(0.9 x -1500) + (0.1 x 5) = -1350
+
+This means that, on average, Susan will lose $1,350 if she plays the game. Since she only stands to lose money, it was not the right decision for her to play the game."
+70,Y,". the expected value for this game is:
+
+0.98(300) + 0.02(10) = 294
+
+so the answer is no, he did not make the right decision."
+71,N,. the expected value of the game is (.01)(12) + (.99)(-300) which is -288.79. So the answer is no.
+72,Y,"7% chance of earning 12 dollars means there is a 93% chance of not earning 12 dollars. 
+
+93% chance of losing 900 dollars means there is a 7% chance of not losing 900 dollars. 
+
+Margaret has a 7% chance of not losing 900 dollars and a 7% chance of earning 12 dollars. 
+
+Therefore, Margaret made the right decision."
+73,Y,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money that outcome corresponds to, and then adding these values together. 
+
+For Sarah's game, the expected value is as follows: 
+
+(0.10 x 2) + (0.90 x -300) = -270
+
+This means that, on average, Sarah can expect to lose $270 if she plays the game. 
+
+Since Sarah actually only lost $250, we can say that she made a slightly better-than-average decision. 
+
+However, since the expected value of the game is negative, we can also say that Sarah would have been better off not playing the game at all. 
+
+Answer: N"
+74,N,". 
+
+First, we need to calculate Michael's expected value for the game. This is done by multiplying the probability of each outcome by the amount of money that Michael would win or lose for that outcome. 
+
+For the first outcome, there is a 20% chance that Michael will lose $22. So we multiply 20% by -$22 to get -$4.40. 
+
+For the second outcome, there is an 80% chance that Michael will earn $500. So we multiply 80% by $500 to get $400. 
+
+Then, we add these two numbers together to get the expected value. So Michael's expected value for the game is -$4.40 + $400, which equals $395.60. 
+
+Since the expected value is positive, this means that, on average, Michael will earn $395.60 if he plays the game multiple times. Therefore, it was not the right decision for Michael to play the game just once, since he ended up losing money."
+75,Y,". if the chance of losing is 75% and the chance of winning is 25%, then the expected value of the game is:
+
+(0.75)(-1500) + (0.25)(3)
+
+= -1125 + 0.75
+
+= -1050.25
+
+Therefore, since the expected value of the game is negative, John did NOT make the right decision in playing the game."
+76,N,". the expected value of the game is:
+
+0.09 * 25 - 0.91 * 900 = -837.5
+
+so the answer is no, she should not have played the game."
+77,N,". 
+
+Margaret has a 85 percent chance of losing 200 dollars. 
+This means that she has a 15 percent chance of NOT losing 200 dollars. 
+
+Therefore, she has a 15 percent chance of either breaking even or earning a profit. 
+
+Since the expected value of the game is positive, Margaret should play the game."
+78,N,". 
+
+The expected value of the game is: 
+
+(5% x -22) + (95% x 900) = 858
+
+Since the expected value is positive, we can say that, on average, David will come out ahead if he plays the game multiple times. Therefore, we can say that, yes, David made the right decision."
+79,N,". 
+
+85% of 5000 is 4250. 
+15% of 5000 is 750. 
+
+4250-750=3500. 
+
+So David made 3500 dollars."
+80,N,". 
+
+First, calculate the expected value of the game. The expected value is calculated by multiplying the probability of each outcome by the amount of money that outcome corresponds to, and then adding those numbers together. 
+
+So, for this game, the expected value would be: 
+
+(0.07 * 10) + (0.93 * -200) = -16.9
+
+This means that, on average, if Susan were to play this game an infinite number of times, she would expect to lose about $16.90 each time. 
+
+Since the expected value of the game is negative, that means that, on average, Susan will lose money if she plays the game. Therefore, the answer is N."
+81,N,". 
+
+90% of the time, he will earn $1,500. This means that he will, on average, earn $1,350. 
+10% of the time, he will lose $2. This means that he will, on average, lose $0.20. 
+
+Therefore, overall he will earn $1,350 - $0.20 = $1,349.80. So the answer is Y."
+82,N,". so the expected value for this game is:
+
+0.09*5 + 0.91*200 = 18.45
+
+so since 18.45 is greater than 0, the expected value is positive and Michael should play the game."
+83,Y,". 
+
+The expected value of the game is: 
+
+(0.05)(5) + (0.95)(-50) = -47.5
+
+Since the expected value is negative, Sarah should not play the game."
+84,N,". 
+
+There is a 80% chance that Susan will lose $750, and a 20% chance that Susan will earn $15. 
+
+This means that, on average, Susan will lose $600 ((0.8 x 750) - (0.2 x 15)). 
+
+Therefore, Susan made the wrong decision."
+85,N,". the expected value of the game is:
+
+0.02 * 2 + 0.98 * (-5000) = -9960
+
+so the answer is no, she should not have played the game."
+86,Y,". if we lose, we lose 450. if we win, we win 10. so the expected value is 
+
+-450(.9)+10(.1)=-405
+
+so we should not play the game."
+87,N,". 
+
+There is an 85% chance that David will lose $100, and a 15% chance that David will earn $3. 
+
+This means that, on average, David will lose $85 and earn $0.45 from the game. Therefore, it was not a good decision for David to play the game."
+88,Y,". 
+
+Sarah has a 5% chance of earning 10 dollars. This means that her expected value for the game is 0.05*10 = $0.50. 
+
+Sarah also has a 95% chance of losing 400 dollars. This means that her expected value for the game is 0.95*(-400) = -$380. 
+
+Since the expected value for the game is positive, Sarah should play the game."
+89,N,". 
+
+85% of the time, David will lose $100. This means that, on average, David will lose $85 each time he plays the game. 
+
+15% of the time, David will earn $15. This means that, on average, David will earn $2.25 each time he plays the game. 
+
+Since David will, on average, lose money by playing the game, the answer is N."
+90,N,". the expected value of the game is 
+E(X)=0.1*(-22)+0.9*(200)=178.8
+
+since 178.8>0, the answer is YES."
+91,Y,". the expected value of the game is:
+
+(5% x 10) - (95% x 450) = -42.5
+
+This means that, on average, you will lose $42.50 every time you play the game. So no, Sarah did not make the right decision."
+92,N,". the expected value of the game is:
+
+0.98 * 5000 - 0.02 * 12 = 4940
+
+so yes, john made the right decision."
+93,Y,". 
+
+The expected value of the game is: 
+(0.05)(15) + (0.95)(-5000) = -4975
+
+Since the expected value is negative, Sarah should not play the game."
+94,N,"8% chance of losing 25 dollars means there is a 92% chance of not losing 25 dollars. 
+
+92% chance of not losing 25 dollars means there is a 92% chance of earning 500 dollars. 
+
+92% chance of earning 500 dollars is greater than the 8% chance of losing 25 dollars, so Margaret made the right decision."
+95,N,". 
+
+There is a 1% chance that Michael will earn $3, and a 99% chance that he will lose $250. 
+
+This means that, on average, Michael will lose $247 per game. 
+
+Therefore, it was not a good decision for Michael to play the game."
+96,N,". 
+
+4% chance of losing 12 dollars means that there is a 96% chance of not losing 12 dollars. 
+
+96% chance of not losing 12 dollars means that there is a 96% chance of earning 200 dollars. 
+
+Therefore, David made the right decision."
+97,N,. the expected value of the game is 98%*100 - 2%*25 = 96.5. So the answer is No.
+98,Y,"9% chance of losing 22 dollars means there is a 0.09 probability of losing 22 dollars. 
+91% chance of earning 5000 dollars means there is a 0.91 probability of earning 5000 dollars. 
+
+0.09 * 22 = 1.98
+0.91 * 5000 = 4550
+
+1.98 < 4550
+
+Therefore, Susan made the right decision."
+99,N,". the expected value of the game is 50(0.94)-22(0.06)=47.64. since 47.64>0, the answer is Y."
+100,N,". 2% of 10000 is 200. So, the expected value is 98%*10000 - 2%*3 = 9800. Therefore, David made the right decision."
+101,N,". 
+
+Sarah has the option to play a game where she has an 8 percent chance of losing $15 and a 92 percent chance of earning $10,000. 
+
+Sarah plays the game and ends up losing $15. 
+
+Did Sarah make the right decision?
+
+No, Sarah did not make the right decision."
+102,N,". the 97% chance of winning is for sure a win. the 3% chance of losing is for sure a loss. so, overall, john has a 97% chance of winning, and a 3% chance of losing. since the chances of winning are higher, john made the right decision."
+103,N,". 
+
+70% of the time, she will lose $300. 
+
+30% of the time, she will earn $2. 
+
+On average, she will earn $2(.3) + lose $300(.7) = $210. 
+
+Yes, Sarah made the right decision."
+104,N,". if he has a 91% chance of losing and a 9% chance of winning, that means he will lose more often then he will win. so it would be N."
+105,N,". 97% of the time you will earn 400 dollars. 3% of the time you will lose 20 dollars.
+
+97% of 400 dollars is 388. So on average, you will earn 388 dollars.
+
+3% of 20 dollars is 0.6. So on average, you will lose 0.6 dollars.
+
+Therefore, on average, you will earn 387.4 dollars. Since this is more than you would lose on average, it was the right decision."
+106,N,". 
+
+There is a 75% chance that Michael will lose $500. This means that there is a 25% chance that Michael will NOT lose $500. 
+
+There is a 25% chance that Michael will earn $20. This means that there is a 75% chance that Michael will NOT earn $20. 
+
+Therefore, the chances of Michael losing money are greater than the chances of Michael earning money. Therefore, Michael did NOT make the right decision."
+107,N,". 97% of the time you will earn $50. That is $48.50. 3% of the time you will lose $5. That is $0.15. So on average, you will earn $48.35. Therefore, the answer is Y."
+108,N,". 
+
+The expected value of the game is: 
+
+0.25 * (-20) + 0.75 * 200 = 45
+
+Since the expected value is positive, we can say that, on average, John will make money if he plays the game. 
+
+However, since there is a 25% chance that John will lose money, we can also say that there is a risk involved in playing the game. 
+
+Ultimately, the decision of whether or not to play the game is up to John."
+109,N,". 
+
+8% chance of losing 2 dollars means there is a 92% chance of not losing 2 dollars. 
+
+92% chance of not losing 2 dollars means there is a 92% chance of earning 500 dollars. 
+
+Therefore, John made the right decision."
+110,Y,". 
+
+4% chance of earning $15 means there is a 96% chance of NOT earning $15. 
+
+Therefore, there is a 96% chance of losing $100. 
+
+John made the wrong decision."
+111,N,". the expected value of the game is 
+E(x) = (0.05)(12) + (0.95)(-750) = -713.75
+
+Since the expected value is negative, we can say that, on average, David will lose money if he plays the game. Therefore, the answer is N."
+112,Y,". 
+
+There is a 20% chance that John will earn $12 from the game. 
+There is an 80% chance that John will lose $1500 from the game. 
+
+John played the game and earned $12. 
+
+Yes, John made the right decision."
+113,N,". 
+
+There is a 95% chance that he will earn $100, and a 5% chance that he will lose $5. 
+
+This means that, on average, he will earn $95. 
+
+However, he could also lose $5, which would leave him with a net loss of $5. 
+
+Therefore, the expected value of the game is to lose $5. 
+
+Michael made the wrong decision."
+114,N,"92% chance of earning $5000
+8% chance of losing $5
+
+Margaret has a 92% chance of coming out ahead, so she should play the game."
+115,N,". 
+
+Margaret has the option to play a game where she has a 90% chance of losing $1,500 and a 10% chance of earning $2. 
+
+There is a 90% chance that Margaret will lose $1,500, and a 10% chance that she will earn $2. 
+
+Margaret plays the game and ends up losing $1,500. 
+
+Margaret did not make the right decision."
+116,N,". if we lose, we lose a lot. if we win, we win a little. so it seems like a bad idea to play the game."
+117,N,". so the expected value for this game is
+
+EV = (0.75 * -10000) + (0.25 * 20)
+
+EV = -7500 + 5
+
+EV = -7495
+
+Therefore, since the expected value of the game is negative, Susan made the wrong decision in playing the game."
+118,N,". 
+
+The expected value of the game is: 
+
+0.2(2) + 0.8(-500) 
+= -460 
+
+Therefore, Susan made the wrong decision."
+119,N,". 
+
+The expected value of the game is: 
+
+(0.25 x 25) + (0.75 x -100) 
+= 25 - 75 
+= -50 
+
+This means that, on average, you will lose $50 every time you play the game. 
+
+Therefore, the answer is N."
+120,N,". so the expected value for this game is:
+
+0.91(450) + 0.09(12) = 408.2
+
+Since 408.2 is less than 450, the answer is N."
+121,N,". 
+
+3% chance of earning $2 
+
+97% chance of losing $450 
+
+overall, there is a 96% chance that Margaret will lose money. 
+
+Therefore, the answer is N."
+122,N,". 96% of the time she will lose $900. So out of 100 times, she will lose $900 96 times. 4% of the time she will gain $2. So out of 100 times she will gain $2 4 times. In the end, she will lose $1788. Therefore, Sarah made the wrong decision."
+123,N,". if she earns 10,000 dollars, she will have 10,000-12=9,988 dollars. if she loses, she will have 0 dollars. so the expected value is 0.94*10000-0.06*12=9364.8-0.72=9363.08. since 9363.08>0, she should play the game."
+124,N,". so we have a 91% chance of winning $750, and a 9% chance of losing $20. that means there is a 100% chance of winning $730. so yes he made the right decision."
+125,N,". the expected value of the game is 
+E(X)=0.95(400)-0.05(25)
+E(X)=380-1.25
+E(X)=378.75
+
+John's expected value for the game is positive, so yes, he made the right decision."
+126,N,". the expected value of the game is:
+
+0.97 * (-500) + 0.03 * 4 = -14.9
+
+so the answer is no, he should not have played the game."
+127,N,". 9% of 10000 is 900. so if she wins, she only gains 900. but if she loses, she loses 10000. so the answer is N."
+128,N,". 
+
+3% of the time, he will earn 5 dollars. 
+97% of the time, he will lose 250 dollars. 
+
+On average, he will lose: 
+97% * 250 dollars = $242.50
+
+And he will earn: 
+3% * 5 dollars = $0.15
+
+So on average, he will lose $242.35 per game. Therefore, the answer is no."
+129,N,". 
+
+91% chance of earning 7500 dollars means that there is a 91% chance that David will make a profit from playing the game. 
+
+9% chance of losing 2 dollars means that there is a 9% chance that David will lose money from playing the game. 
+
+Therefore, David has a greater chance of making a profit than of losing money, so he made the right decision in playing the game."
+130,N,". if she had a 97% chance of winning $50, that means she has a 97% chance of winning $0.50. she would have to play the game 400 times to make up for the $22 she lost, on average. so the answer is no."
+131,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money won or lost for that outcome, and then adding these values together.
+
+For the game that David has the option to play, the expected value can be calculated as follows:
+
+(0.2 x -1) + (0.8 x 450) = 90
+
+This means that, on average, David can expect to win $90 if he plays the game.
+
+Now, we need to compare this expected value to the amount of money that David would lose if he did not play the game. In this case, the amount of money lost if David does not play the game is $1.
+
+Since the expected value of the game is greater than the amount of money lost if David does not play the game, we can conclude that David made the right decision by playing the game."
+132,Y,". 
+
+Margaret has a 2% chance of earning $4, and a 98% chance of losing $1000. 
+
+This means that, on average, she will lose $980 per game. 
+
+Therefore, it was not a good decision for Margaret to play the game."
+133,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money that outcome corresponds to, and then adding these values together. 
+
+For this game, the expected value is:
+
+(0.2 x (-12)) + (0.8 x 1000) = 800
+
+This means that, on average, if David plays this game many times, he can expect to earn $800 each time. 
+
+Now, let's look at the decision David made. He played the game once and lost $4. This is less than the expected value of the game, so we can say that, in this instance, David made the wrong decision."
+134,N,. the expected value for this game is: .01(1)+.99(-1500)=-14.99. So the answer is no.
+135,N,". 
+
+The expected value of the game is: 
+
+(0.75 x 250) - (0.25 x 1) = 187.5
+
+Since 187.5 is greater than 0, the expected value of the game is positive, and Michael should play the game."
+136,N,". the expected value of the game is:
+
+0.97 * 500 - 0.03 * 4 = 490
+
+so the answer is no, he should not have played the game."
+137,N,". 
+
+The expected value of the game is: 
+
+(0.25 x -15) + (0.75 x 5000) = 3750
+
+Since the expected value is positive, Michael should play the game."
+138,N,". 
+
+The expected value of the game is: 
+
+0.7(100) - 0.3(12) = 74
+
+Since the expected value is positive, Susan should play the game. 
+
+However, since Susan ended up losing 12 dollars, we can say that she made the wrong decision."
+139,N,". the expected value of the game is 
+E(X)=0.9(100)-0.1(15)=85. 
+so since 85>0, yes she made the right decision."
+140,N,"93% chance of losing $300 
+7% chance of earning $15 
+
+$300 - $15 = $285 
+
+so Susan would have been better off not playing the game"
+141,Y,". if he has a 10% chance of earning $15, that means he has a 90% chance of losing $5000. if he has a 90% chance of losing $5000, that means he has a 100% chance of losing $4500. so, no, he did not make the right decision."
+142,N,". the expected value of the game is:
+
+0.02 * 2 + 0.98 * (-450) = -8.92
+
+so no, he did not make the right decision."
+143,N,". 
+
+The expected value of the game is:
+
+0.98 * 500 - 0.02 * 20 = 490
+
+Since the expected value is positive, Sarah should play the game."
+144,Y,"3% chance of earning 1 dollar 
+97% chance of losing 1500 dollars 
+
+3% of 1500 is 45 
+
+so the expected value is 45-1500 or -1455 
+
+since the expected value is negative, it would not be a good idea to play the game"
+145,N,. the expected value of the game is 950 dollars. so she should play.
+146,N,". if she had a 96% chance of winning, she would have won 96% of the time, and 4% of the time she would have lost. so she would have won 96%*300=288 and lost 4%*25=1. she would have come out 288 dollars ahead. so the answer is no, she should not have played the game."
+147,Y,". 70% of the time she will lose $50. 
+30% of the time she will earn $1. 
+
+70% of the time she will have -$50
+30% of the time she will have $1
+
+on average she will have:
+
+.7(-50) + .3(1) = -35 + .3 = -$34.70
+
+So no, she did not make the right decision."
+148,N,". so the expected value for this game is 
+E(X) = 0.85(-100) + 0.15(15) = -12.5.
+
+This means that, on average, you will lose $12.50 every time you play this game. So no, Sarah did not make the right decision."
+149,N,". 
+
+The expected value of the game is: 
+
+(0.75)(7500) + (0.25)(-1) = 5625 + (-0.25) = 5625 - 0.25 = 5624.75
+
+Since the expected value of the game is positive, John should play the game."
+150,N,"3% of the time he will lose 10 dollars 
+97% of the time he will earn 50 dollars 
+
+3% of the time: 10 dollars lost
+97% of the time: 50 dollars earned
+
+On average, over many trials of the game, John can expect to earn:
+(0.97)(50) - (0.03)(10) = 48.5 dollars
+
+Therefore, John should play the game because he can expect to earn money in the long run."
+151,N,". 
+
+The expected value of the game is: 
+
+0.75 * (-450) + 0.25 * 22 = -337.5
+
+Since the expected value is negative, Margaret should not play the game."
+152,N,". 
+
+85% of the time, Michael will lose $450. 
+15% of the time, Michael will earn $4. 
+
+On average, over many trials of the game, Michael can expect to lose $408.75. 
+
+Therefore, the expected value of the game is negative, and it would not be a wise decision for Michael to play the game."
+153,N,". 
+
+93% of the time, John will lose 400 dollars. 
+7% of the time, John will earn 15 dollars. 
+
+On average, John will lose 382.5 dollars. 
+
+Therefore, John did not make the right decision."
+154,N,". the expected value of the game is: 
+0.91*(-500) + 0.09*5 = -45.5
+
+so the answer is no, he should not have played the game."
+155,N,". 
+
+There is a 95% chance that David will lose $1000, and a 5% chance that David will earn $5. 
+
+This means that, on average, David will lose $950 per game. 
+
+Therefore, the expected value of the game is negative, and David should not play the game."
+156,Y,". the expected value of the game is
+
+E(X) = (0.01)(5) + (0.99)(-50) = -49.5
+
+so the answer is no, she should not have played the game."
+157,N,. the expected value for this game is: .01(5)+.99(-750)=-7495. so the answer is no.
+158,N,". the expected value of the game is:
+
+0.97 * (-900) + 0.03 * 25 = -852.5
+
+Since the expected value is negative, Susan should not play the game."
+159,N,". 
+
+First, we need to calculate Michael's expected value for the game. This is done by multiplying the probability of each outcome by the amount of money won or lost for that outcome, and then adding these values together. 
+
+For the game, there are two possible outcomes: 
+
+Michael could lose 100 dollars (98% chance), or 
+Michael could earn 2 dollars (2% chance). 
+
+The expected value is calculated as follows: 
+
+(0.98 x (-100)) + (0.02 x 2) = -196 + 0.04 = -195.96. 
+
+This means that, on average, Michael can expect to lose around 196 dollars if he plays the game. 
+
+Now that we know the expected value of the game, we can compare this to the amount of money Michael actually won (2 dollars). Since the expected value is less than the amount of money Michael actually won, we can say that Michael made the right decision in playing the game."
+160,N,". 
+
+The expected value of the game is: 
+
+0.3(12) + 0.7(900) = 252
+
+Since 252 is greater than 0, Sarah should play the game."
+161,N,". 
+
+There is a 1% chance that Michael will earn $4, and a 99% chance that he will lose $200. 
+
+This means that, on average, Michael will lose $196 per game. 
+
+Therefore, it was not a good decision for Michael to play the game."
+162,N,". 
+
+There is a 20% chance that Michael will lose $1, and a 80% chance that Michael will earn $750. 
+
+This means that, on average, Michael will lose $0.20 and earn $600. 
+
+Since Michael has a higher chance of earning money, it is more likely that he will come out ahead if he plays the game. Therefore, Michael made the right decision."
+163,N,". 
+
+There is a 1% chance that David will lose $15, and a 99% chance that he will earn $500. 
+
+This means that, on average, David will earn $495 from the game. 
+
+Since $495 is more than the $15 he stands to lose, David made the right decision in playing the game."
+164,Y,". 
+
+The expected value of the game is: 
+
+0.2 * 12 - 0.8 * 100 = -76
+
+Since the expected value is negative, David should not play the game."
+165,N,". 
+
+There is a 98% chance that David will lose 900 dollars, and a 2% chance that David will earn 15 dollars. 
+
+This means that, overall, David has a 96% chance of losing money, and a 4% chance of earning money. 
+
+Since the expected value of the game is to lose money, David did not make the right decision."
+166,N,". 
+
+The expected value of the game is: 
+
+(0.3)(-4) + (0.7)(10000) = 6940
+
+Since the expected value is positive, we can say that, on average, David will make money if he plays the game. 
+
+However, since there is a 30% chance that David will lose money, we can also say that there is a risk involved in playing the game. 
+
+Ultimately, the decision of whether or not to play the game is up to David."
+167,N,"8% chance of earning 22 dollars means there is a 0.08*22 = 1.76 dollar expected value for playing the game
+
+92% chance of losing 10000 dollars means there is a 0.92*10000 = 9200 dollar expected value for not playing the game
+
+Since 1.76 is less than 9200, John made the wrong decision."
+168,Y,". 
+
+There is a 75% chance that David will lose 300 dollars, and a 25% chance that David will earn 10 dollars. 
+
+This means that, on average, David will lose 225 dollars per game. 
+
+Therefore, the expected value of the game is -225 dollars, and playing the game is not a wise decision."
+169,Y,". the expected value of the game is 
+-95%*200 + 5%*3 = -185. so susan made the wrong decision."
+170,N,"4% chance of earning 4 dollars means there is a 96% chance of not earning 4 dollars 
+
+so the expected value is: 
+
+4% x 4 dollars + 96% x 0 dollars = 0.16 dollars 
+
+since this is less than the amount he stands to lose, 92% x 400 dollars = 368 dollars, the answer is no."
+171,Y,"93% chance of losing 50 dollars means that there is a 93% chance that Michael will lose $50. 
+
+7% chance of earning 25 dollars means that there is a 7% chance that Michael will earn $25. 
+
+Since there is a higher chance of losing money, it is more likely that Michael will lose money if he plays the game. Therefore, Michael did not make the right decision."
+172,N,. 2% of 15 is .3. So the expected value if he were to lose would be .3. 98% of 750 is 735. So the expected value if he were to win would be 735. 735>300 so yes he made the right decision.
+173,Y,". 
+
+7% chance of earning 22 dollars means that there is a 7% chance that Sarah will earn $22. 
+93% chance of losing 1500 dollars means that there is a 93% chance that Sarah will lose $1,500. 
+
+Sarah made the right decision if she earned more than she lost. In this case, she earned $22 and lost $1,500, so she did not make the right decision."
+174,N,. if the chance of winning is 9% that means there is a 91% chance of losing. so the expected value is .09(15)-.91(1000)=-855.5. So the answer is no he did not make the right decision.
+175,N,". 
+
+93% of the time, you will earn 1500 dollars. 
+7% of the time, you will lose 1 dollar. 
+
+This means that, on average, you will earn 1493 dollars. 
+
+Now, let's compare this to the other option. 
+
+92% of the time, you will lose 200 dollars. 
+8% of the time, you will earn 2 dollars. 
+
+This means that, on average, you will lose 196 dollars. 
+
+Since 1493 is greater than 196, the answer is Y."
+176,N,". 80% of the time you will earn 10,000 dollars. 20% of the time you will lose 10 dollars. 
+
+This means that, on average, you will earn 8,000 dollars from this game. Therefore, the answer is Y."
+177,Y,". 
+
+There is a 95% chance that Michael will earn $5,000, and a 5% chance that he will lose $2. 
+
+This means that, on average, Michael will earn $4,950 from the game. 
+
+Since Michael stands to earn more than he stands to lose, he made the right decision in playing the game."
+178,N,". 
+
+There is a 5% chance that Michael will lose 3 dollars. This means that there is a 95% chance that Michael will not lose 3 dollars. 
+
+There is a 95% chance that Michael will earn 50 dollars. This means that there is a 5% chance that Michael will not earn 50 dollars. 
+
+Since there is a greater chance that Michael will earn 50 dollars than there is a chance that he will lose 3 dollars, Michael made the right decision."
+179,N,". 
+
+70% chance of losing $10,000 means there is a 30% chance of NOT losing $10,000. 
+
+There is a 30% chance of earning $1. 
+
+So, the expected value of the game is: 
+
+(0.3)($1) - (0.7)($10,000) = -$9,700. 
+
+This is a negative expected value, so Margaret should NOT have played the game."
+180,N,". 
+
+4% of the time, he will earn 12 dollars. 
+96% of the time, he will lose 5000 dollars. 
+
+On average, he will lose $4860."
+181,N,". 
+
+97% of the time, David will earn $50. 
+3% of the time, David will lose $1. 
+
+On average, David will earn $48.50 per game. 
+
+Yes, David made the right decision."
+182,N,". 
+
+93% of the time, David will lose 450 dollars. This means that for every 100 times David plays the game, he will lose 450 dollars 93 times, and he will earn 2 dollars 7 times. 
+
+On average, then, David will lose 450 dollars 86.1 times and earn 2 dollars 6.3 times. This means that, on average, David will lose 443.7 dollars and earn 14.9 dollars. 
+
+Therefore, it would not be the right decision for David to play the game."
+183,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money earned or lost for that outcome, and then adding these values together. 
+
+For David's game, the expected value is: 
+
+(0.25 x -10) + (0.75 x 900) = 225
+
+Since the expected value of the game is positive, we can say that, on average, David will make money if he plays the game. 
+
+However, this does not guarantee that David will make money if he plays the game just once. There is always a chance that he could lose money. 
+
+In this case, the expected value is not high enough to offset the risk of losing money, so we would not recommend that David play the game."
+184,N,". 
+
+There is an 85% chance that John will earn $500. 
+There is a 15% chance that John will lose $25. 
+
+The expected value of the game is: 
+
+(85% x $500) - (15% x $25) = $425. 
+
+Since the expected value is positive, John should play the game."
+185,Y,"4% chance of earning 20 dollars means there is a 96% chance of losing 20 dollars. 
+
+Since the expected value of the game is negative, Michael should not play the game."
+186,N,". 
+
+The expected value of the game is: 
+
+(0.75)(450) + (0.25)(-1) = 337.5
+
+Since 337.5 is greater than 0, Michael should play the game."
+187,N,". 
+
+The expected value of the game is: 
+(0.95 x 200) + (0.05 x 4) = 190
+
+Since the expected value is less than 200, Michael should not play the game."
+188,N,". if the probability of winning the game is 9% and the amount of money he can win is 4 dollars, then the expected value of the game is 0.09*4=0.36. this means that, on average, john will lose 0.36 dollars every time he plays the game. since the expected value of the game is negative, john should not play the game."
+189,Y,". 
+
+8% chance of earning 10 dollars means there is an 8% chance that she will make a net profit of 10 dollars. 
+
+92% chance of losing 50 dollars means there is a 92% chance that she will make a net loss of 50 dollars. 
+
+Therefore, there is a greater chance that she will make a loss than a profit. 
+
+Therefore, the answer is N."
+190,N,". 70% of the time you lose $500. 30% of the time you gain $15. 
+
+70% of the time you're at a net loss of $485. 
+
+30% of the time you're at a net gain of $15. 
+
+This means that for every 3 times you play this game, you will lose money 2 times and gain money 1 time. 
+
+Therefore, the answer is no, John did not make the right decision."
+191,Y,". 
+
+30% of the time, she will earn $25. 
+70% of the time, she will lose $400. 
+
+On average, she will lose money. So the answer is no."
+192,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money earned or lost for that outcome, and then adding these values together. 
+
+For Susan's game, the expected value is:
+
+(0.07 x 4) + (0.93 x -7500) = -698.9
+
+This means that, on average, Susan can expect to lose about $698.90 every time she plays the game. Since Susan only lost $4, she made a profit this time. However, since the expected value of the game is negative, this was just a lucky break. In the long run, Susan will lose money if she continues to play the game."
+193,N,". 
+
+The expected value of the game is:
+
+0.03 * (-5) + 0.97 * (450) = 435.65
+
+Since the expected value is positive, Sarah should play the game."
+194,N,". the expected value of the game is:
+
+0.02 * -10 + 0.98 * 5000 = 4980
+
+so the expected value of the game is positive, and john should play the game. however, since there is a small chance of losing a large amount of money, john might not want to play the game."
+195,N,". 
+
+The expected value of the game is: 
+
+(0.75 x 900) + (0.25 x (-12)) = 675 
+
+Since 675 is greater than 0, Michael should play the game. 
+
+However, since Michael ended up losing 12 dollars, we can say that he did not make the right decision."
+196,Y,". 
+
+4% chance of earning 20 dollars means that there is a 96% chance of NOT earning 20 dollars. 
+
+Therefore, the expected value of the game is: 
+
+(4% x 20) + (96% x 0) = 0.8
+
+Since the expected value of the game is positive, John made the right decision to play the game."
+197,N,". the expected value of the game is 
+E(X)=(0.01*-3)+(0.99*750)
+E(X)=7.47
+
+since 7.47>0, we can say that Michael made the right decision."
+198,Y,". 
+
+30% of the time, David will earn 2 dollars. 
+70% of the time, David will lose 100 dollars. 
+
+On average, David will earn (0.3 * 2) - (0.7 * 100) = -86 dollars. 
+
+Therefore, David made the wrong decision."
+199,Y,". the expected value of the game is 
+E(X) = (0.15)(25) + (0.85)(-250) = -225.5
+
+Since the expected value is negative, we should not play the game.
+
+Therefore, the answer is N."
+200,N,". 
+
+97% chance of losing $450 means there is a 3% chance of NOT losing $450. 
+
+3% chance of earning $12 means there is a 97% chance of NOT earning $12. 
+
+Therefore, the chance of losing $450 and NOT earning $12 is 3% x 97% = 0.91%. 
+
+The chance of NOT losing $450 OR earning $12 is 1 - 0.91% = 99.09%. 
+
+Therefore, the chance of losing $450 AND earning $12 is 3% x 3% = 0.09%. 
+
+Since the chance of losing $450 AND earning $12 is less than the chance of just losing $450, David did NOT make the right decision."
+201,N,". 
+
+3% of 300 is 9. So there's a 97% chance of losing 291 dollars. 
+
+97% of 25 is 24.25. So there's a 3% chance of earning 1.75 dollars. 
+
+Therefore, it is more likely that Michael will lose money overall. So the answer is N."
+202,N,". so first we need to calculate the expected value which is:
+
+0.06*1 + 0.94*(-500) = -470.4
+
+since the expected value is negative, we can say that it was not the right decision to play the game."
+203,N,". 
+
+There is a 10% chance that David will lose $5, and a 90% chance that David will earn $75. 
+
+This means that, on average, David will earn $67.50 from the game. 
+
+Since the expected value of the game is positive, David made the right decision in playing the game."
+204,N,"7% chance of earning 4 dollars means there is a 93% chance of losing money. 
+
+93% chance of losing 1000 dollars means there is a 7% chance of losing money. 
+
+Therefore, David made the wrong decision."
+205,N,. first we need to calculate the expected value. which is (0.95*100)+(0.05*-12) = 97. so we can say that yes john made the right decision.
+206,N,". 
+
+85% of the time, she will lose 900 dollars. This means that she will, on average, lose
+
+85% * 900 =765 dollars. 
+
+15% of the time, she will earn 3 dollars. This means that she will, on average, earn
+
+15% * 3 = 45 dollars. 
+
+Therefore, her expected value is 
+
+765 + 45 = 810 dollars. 
+
+Since 810 dollars is less than 900 dollars, the answer is N."
+207,N,". 
+
+Sarah has a 92% chance of earning $1,500, and an 8% chance of losing $5. 
+
+This means that, on average, Sarah will earn $1,460 from the game. 
+
+However, there is a chance that Sarah could lose $5. 
+
+Therefore, Sarah made the right decision to play the game."
+208,N,". the expected value of the game is 
+E(X)=(.01)(-5)+(.99)(500)
+E(X)=495.5
+
+so since 495.5>0, we can say that yes, Michael made the right decision."
+209,Y,". the expected value of the game is:
+3% * 2 + 97% * (-500) = -14.9
+
+Since the expected value is negative, Margaret should not play the game."
+210,N,"8% chance of earning 12 dollars means that there is an 8% chance that she will earn $12 
+92% chance of losing 1000 dollars means that there is a 92% chance that she will lose $1000 
+
+So, there is a greater chance that she will lose $1000 than she will earn $12. Therefore, she did not make the right decision."
+211,Y,". the expected value of the game is:
+
+0.09 * 5 - 0.91 * 500 = -495.5
+
+So the answer is no, Susan did not make the right decision."
+212,N,"4% chance of earning 22 dollars means that there is a 96% chance of not earning 22 dollars 
+
+so Susan has a 96% chance of losing 1000 dollars."
+213,N,. so first we need to calculate the expected value which is EV= (0.15*2)+(0.85*300)=255. now we need to compare it to what he actually won which is 400. 400>255 so he made the right decision.
+214,N,". the expected value of the game is:
+
+0.04 * (-2) + 0.96 * (10000) = 9980
+
+so yes, she made the right decision."
+215,Y,". the expected value of the game is:
+
+0.25(3) + 0.75(-200) = -148.75
+
+so the answer is no, she should not have played the game."
+216,N,". the expected value for this game is 
+E(X)=(.99)(250)+(.01)(-20)
+E(X)=247.8
+
+Since 247.8>0, Michael should play the game."
+217,Y,". if she has a 1% chance of earning $3, that means she has a 99% chance of losing $1000. so the expected value of the game is:
+
+0.01 * 3 - 0.99 * 1000 = -997.97
+
+Since the expected value is negative, Margaret should not play the game."
+218,N,". 
+
+Sarah has a 6% chance of earning $1, and a 94% chance of losing $400. 
+
+This means that, on average, Sarah will lose $400 94% of the time, and earn $1 6% of the time. 
+
+This means that Sarah's expected earnings from the game are $1(0.06) - $400(0.94) = -$38. 
+
+Since Sarah's expected earnings from the game are negative, Sarah did not make the right decision."
+219,N,". 70% of the time you will earn $1000. That means 30% of the time you will lose $15. 
+
+N"
+220,N,". 
+
+There is a 15% chance that John will lose $22. 
+There is an 85% chance that John will earn $100. 
+
+John's expected value for playing the game is: 
+
+(0.15)(-22) + (0.85)(100) = 87.5
+
+Since 87.5 is greater than 0, John should play the game."
+221,N,". 
+
+There is a 15% chance that John will lose $20, and a 85% chance that John will earn $50. 
+
+This means that there is a 85% chance that John will come out ahead, and a 15% chance that John will come out behind. 
+
+Therefore, it is more likely than not that John will come out ahead if he plays the game, so the answer is Y."
+222,N,". the expected value of the game is 
+3% * 3 + 97% * 450 = 441.5
+since 441.5 > 3, michael should play the game."
+223,N,". if the chance of losing is 94% and the chance of winning is 6%, then it is more likely that you will lose."
+224,Y,. the expected value of the game is (.01)(12) + (.99)(-300) = -28.77. So the answer is no.
+225,N,". so the expected value for this game is 
+E(X)=0.09(4)-0.91(900)=-892.1
+so since the expected value is negative, she should not have played the game."
+226,Y,". 
+
+The expected value of the game is: 
+
+(0.85 * (-50)) + (0.15 * 15) = -42.5
+
+Since the expected value is negative, this is not a game that Susan should play."
+227,N,". 
+
+The expected value of the game is: 
+
+0.93(200) - 0.07(1) = 186.9
+
+Since 186.9 > 0, the expected value of the game is positive, and Susan should play the game."
+228,N,". 
+
+2% chance of losing 25 dollars means that there is a 98% chance of not losing 25 dollars. 
+
+98% chance of not losing 25 dollars means that there is a 98% chance of earning 10000 dollars. 
+
+Therefore, Michael made the right decision."
+229,N,". 
+
+The expected value of the game is: 
+(0.95 * -10000) + (0.05 * 4) = -950
+
+Since the expected value is negative, Sarah should not play the game."
+230,N,". 
+
+The expected value of the game is: 
+
+(0.9 * 300) - (0.1 * 10) = 270 
+
+Since the expected value is positive, we can say that, on average, Sarah will earn money if she plays the game. In this particular instance, she lost money, but that was due to chance. Overall, she should continue playing the game."
+231,N,". first, calculate the expected value:
+
+0.06 * 12 + 0.94 * (-1500) = -1476
+
+since the expected value is negative, it is not a good idea to play the game."
+232,Y,". 
+
+There is a 96% chance that John will lose $400, and a 4% chance that John will earn $12. 
+
+This means that, on average, John can expect to lose $392. 
+
+However, there is a small chance that John will earn $12. 
+
+Therefore, John should play the game."
+233,N,". the expected value for this game is 
+E(X)=(.99)(100)+(.01)(-10)
+E(X)=89.9
+so the answer is No, David should not have played the game."
+234,N,". the expected value of the game is 
+E(X)=(0.02)(-22)+(0.98)(1500)=29.6
+so she should play the game."
+235,N,". 
+
+The expected value of the game is: 
+(0.06)(15) + (0.94)(-400) = -38.4
+
+Since the expected value is negative, Sarah should not play the game."
+236,N,". the expected value of the game is 
+E(X)=(0.75)(250)+(0.25)(-25)=187.5
+
+since 187.5>0, we can say that john made the right decision."
+237,N,". the expected value of the game is 
+E(X)=0.91(400)-0.09(2)
+E(X)=364-0.18
+E(X)=363.82
+
+so the answer is Y."
+238,N,". 
+
+3% of 1500 is 45. So there's a 97% chance of losing $1455. 
+
+Now, 97% of 4 is 3.88. So there's a 3% chance of losing $3.88. 
+
+Therefore, there's a greater chance of losing money overall, so the answer is N."
+239,N,"6% chance of losing 25 dollars means that there is a 94% chance of not losing 25 dollars 
+
+94% chance of not losing 25 dollars means that there is a 6% chance of losing 25 dollars 
+
+6% chance of losing 25 dollars is the same as a 94% chance of earning 5000 dollars"
+240,N,". 70% of the time you will make 500 dollars. That is 700 dollars. 30% of the time you will make -3 dollars. That is -90 dollars. So in the end, you will make 610 dollars. So the answer is Y."
+241,N,". 
+
+4% of the time, she will earn 4 dollars. 
+96% of the time, she will lose 750 dollars. 
+
+On average, she will lose 732 dollars. 
+
+Therefore, N."
+242,Y,". 
+
+70% of the time, he will lose 250 dollars. This means that for every 10 games he plays, he will lose 7 times. 
+
+30% of the time, he will earn 3 dollars. This means that for every 10 games he plays, he will earn 3 times. 
+
+So overall, he will lose more money than he will earn. Therefore, the answer is no."
+243,N,". 
+
+95% of the time, he will earn $1,500. 
+5% of the time, he will lose $25. 
+
+On average, he will earn $1,475. 
+
+Yes, he made the right decision."
+244,N,". 
+
+Sarah has the option to play a game where she has a 94% chance of losing $500 and a 6% chance of earning $22. 
+
+There is a 94% chance that Sarah will lose $500, and a 6% chance that she will earn $22. 
+
+Sarah decides to play the game, and ends up earning $22. 
+
+Yes, Sarah made the right decision."
+245,Y,". 
+
+Sarah has a 6% chance of earning $15, and a 94% chance of losing $250. 
+
+This means that, on average, Sarah will lose $250 94% of the time, and earn $15 6% of the time. 
+
+Therefore, Sarah's expected earnings from the game are: 
+
+(6% x $15) - (94% x $250) = -$2,115. 
+
+Since Sarah's expected earnings from the game are negative, Sarah made the wrong decision in playing the game."
+246,N,. the expected value of the game is .01(5)-.99(400)=-3.95. So the answer is no.
+247,N,". 
+
+4% chance of earning 22 dollars means that there is a 96% chance of NOT earning 22 dollars. 
+
+96% chance of losing 300 dollars means that there is a 4% chance of NOT losing 300 dollars. 
+
+Therefore, the decision depends on whether the 4% chance of NOT losing 300 dollars is greater than the 96% chance of NOT earning 22 dollars. 
+
+4% is greater than 96%, so the answer is Y."
+248,N,". if he has a 70% chance of losing $10,000, that means he has a 30% chance of NOT losing $10,000. so he has a 30% chance of either breaking even or coming out ahead. since the expected value of the game is positive, he should play."
+249,Y,". 
+
+The expected value of the game is: 
+
+0.25(4) + 0.75(-1500) = -1425
+
+Since the expected value is negative, this is not a game that Susan should play."
+250,N,". 
+
+The expected value of the game is: 
+
+0.09 * (-12) + 0.91 * 7500 = 6864
+
+Since 6864 > 0, the expected value of the game is positive, and thus David should play the game."
+251,N,". 
+
+80% chance of earning 1500 dollars means that for every 5 times he plays, he will earn 1500 dollars 4 times and lose 1500 dollars once. 
+
+20% chance of losing 22 dollars means that for every 5 times he plays, he will lose 22 dollars once and not lose 22 dollars 4 times. 
+
+So overall, he has a 4/5 chance of earning 1500 dollars and a 1/5 chance of losing 22 dollars. 
+
+Since the chances of him earning are greater than the chances of him losing, he made the right decision."
+252,N,". the expected value of the game is 
+E(X)=(.25*4)+(.75*450)=112.5
+so we can say that on average, john will earn 112.5 from playing the game. 
+since 112.5>4, we can say that yes, john made the right decision."
+253,Y,". the expected value of the game is 
+E(X)=0.9(250)-0.1(20)=225-2=223 dollars.
+
+Since the expected value is positive, Sarah should play the game."
+254,N,". 
+
+There is a 96% chance that John will earn $250 from the game. This means that there is a 4% chance that John will lose $15 from the game. 
+
+Since the chances of John earning money from the game are greater than the chances of John losing money from the game, John made the right decision in playing the game."
+255,N,". the expected value of the game is:
+
+(0.02)(2)+(0.98)(-5000)=-99.6
+
+so the answer is no, she should not have played the game."
+256,Y,". 
+
+There is a 10% chance that David will earn $4, and a 90% chance that David will lose $900. 
+
+This means that, on average, David will lose $810. 
+
+Since it is more likely that David will lose money, the decision is N."
+257,N,". 
+
+The expected value of the game is: 
+
+0.92(500) - 0.08(25) = 460 
+
+Since the expected value is positive, Susan should play the game."
+258,N,. so the chance of her winning is 91% which is .91. and the chance of her losing is 9% which is .09. now if we multiply .91 and 500 we get 455.5. this is her expected winnings. now if we multiply .09 and 4 we get .36. this is her expected losses. now 455.5 is greater then .36 so she should play the game.
+259,N,". if she has a 98% chance of losing $1000, that means she has a 2% chance of NOT losing $1000. so she has a 2% chance of winning $1000. so the expected value is: .02*1000 - .98*1000 = 20. so she should play"
+260,Y,". 
+
+Margaret has a 90% chance of losing $1000, which means she has a 10% chance of NOT losing $1000. 
+
+She also has a 10% chance of earning $10. 
+
+So, the question is, is it better to have a 10% chance of losing $1000 or a 10% chance of earning $10? 
+
+The answer is that it is better to have a 10% chance of earning $10. Therefore, Margaret made the right decision."
+261,N,"8% chance of earning $2 
+92% chance of losing $450 
+
+8% of the time, John will earn $2. 
+92% of the time, John will lose $450. 
+
+On average, John will lose $444."
+262,N,". 
+
+3% chance of losing 20 dollars means there is a 97% chance of NOT losing 20 dollars. 
+
+97% chance of earning 50 dollars means there is a 3% chance of NOT earning 50 dollars. 
+
+So, the chances of losing 20 dollars AND not earning 50 dollars is 3% x 3% = 0.09%. 
+
+The chances of NOT losing 20 dollars AND earning 50 dollars is 97% x 97% = 94.09%. 
+
+0.09% < 94.09%
+
+Therefore, John made the right decision."
+263,N,". 
+
+15% of 22 is 3.30. So there's a 15% chance John will lose $3.30
+
+85% of 5000 is 4250. So there's an 85% chance John will earn $4250
+
+3.30 + 4250 = 4583. So there's a 4583% chance John will come out ahead.
+
+Therefore, John made the right decision."
+264,N,". 
+
+3% chance of losing 4 dollars means there is a 97% chance of NOT losing 4 dollars. 
+
+97% chance of earning 1000 dollars means there is a 3% chance of NOT earning 1000 dollars. 
+
+Therefore, the decision to play the game was correct because the chances of losing money were lower than the chances of winning money."
+265,N,". the expected value for this game is 
+E(X)=(0.02)(-15)+(0.98)(10000)=197.8
+
+Since the expected value is positive, we can say that, on average, this game will result in a win. Therefore, the answer is Y."
+266,N,"7% chance of earning 1 dollar 
+93% chance of losing 200 dollars 
+
+7% of 200 dollars is 14 dollars 
+93% of 200 dollars is 186 dollars 
+
+so overall there is a chance of losing 172 dollars"
+267,N,". the expected value of the game is:
+
+0.02 * 22 + 0.98 * (-5000) = -4960
+
+so the answer is no, she should not have played the game."
+268,Y,". 
+
+There is a 5% chance that Susan will earn 4 dollars. This means that there is a 95% chance that Susan will not earn 4 dollars. 
+
+There is a 95% chance that Susan will lose 250 dollars. This means that there is a 5% chance that Susan will not lose 250 dollars. 
+
+Since the chances of Susan earning 4 dollars is less than the chances of her losing 250 dollars, Susan made the wrong decision."
+269,Y,". 
+
+The expected value of the game is: 
+
+(0.95 * -250) + (0.05 * 1) = -242.5
+
+Since the expected value is negative, this means that on average, you will lose money if you play the game. Therefore, the answer is N."
+270,N,". 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+There is a 98% chance that Margaret will lose $200, and a 2% chance that she will earn $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of losing $200 and a 2% chance of earning $1. 
+
+Margaret has a 98% chance of"
+271,N,". the expected value of the game is 
+E(X)=0.03*(-10)+0.97*(200)
+E(X)=10.1
+so the answer is yes."
+272,Y,". the expected value of the game is
+
+E(X) = (0.15)(5) + (0.85)(-250) = -122.5
+
+so the answer is no, she should not have played the game."
+273,N,". 
+
+The expected value of the game is: 
+
+(0.05)(25) + (0.95)(-7500) = -7375
+
+Since the expected value is negative, Sarah should not play the game."
+274,N,. 80% of the time she will earn $250. So for 8 times out of 10 she will earn $250. She will lose $4 20% of the time. So for 2 times out of 10 she will lose $4. $4 is less than $250 so she should play the game.
+275,Y,". if michael has a 1% chance of earning $12, that means he has a 99% chance of losing $1000. so the expected value of the game is $12(.01) - $1000(.99) = -$988. therefore, michael did not make the right decision."
+276,Y,". 7% of the time she will earn $15. 93% of the time she will lose $300. 
+
+On average, she will lose $285."
+277,N,"8% chance of earning $15 
+92% chance of losing $400 
+
+$15 - $400 = -$385 
+
+so the answer is no"
+278,N,". 
+
+There is a 10% chance that John will lose $5, and a 90% chance that John will earn $300. 
+
+This means that, on average, John will lose $0.50 and earn $270. 
+
+Since the amount earned is greater than the amount lost, John made the right decision."
+279,N,". the expected value of the game is 
+E(X) = (0.05)(20) + (0.95)(-500) = -475
+
+Since the expected value is negative, Sarah should not play the game."
+280,N,". so the expected value for this game is 
+E(X)=(0.91)(450)+(0.09)(-22)
+E(X)=405.78
+
+so even though she lost money on this particular game, she would have made money in the long run if she played this game multiple times. 
+
+Therefore, the answer is Y."
+281,N,". 
+
+The expected value of the game is: 
+
+0.95 * (-1000) + 0.05 * (1) = -950
+
+Since the expected value is negative, Michael would lose money on average if he played the game an infinite number of times. Therefore, the answer is N."
+282,N,". 
+
+Sarah has a 7% chance of earning $22, and a 93% chance of losing $1000. 
+
+This means that there is a higher chance that Sarah will lose money overall if she plays the game. 
+
+Therefore, Sarah did not make the right decision."
+283,Y,". 
+
+4% chance of earning $15 means there is a 96% chance of NOT earning $15. 
+
+Therefore, there is a 96% chance of losing $7500. 
+
+Margaret made the wrong decision."
+284,Y,". 
+
+The expected value of the game is: 
+
+(0.25 x 22) + (0.75 x (-50)) = -8.5
+
+Since the expected value is negative, David should not play the game."
+285,N,". 
+
+The expected value of the game is: 
+
+(0.75)(500) + (0.25)(-25) = 375 + (-6.25) = 368.75
+
+Since the expected value is positive, Sarah should play the game. 
+
+However, since Sarah ended up losing money, she did not make the right decision."
+286,N,". 
+
+8% chance of losing 2 dollars means there is a 92% chance of not losing 2 dollars. 
+
+92% chance of earning 900 dollars means there is an 8% chance of not earning 900 dollars. 
+
+Therefore, the decision Margaret made was not the right one."
+287,N,". the expected value of the game is:
+
+0.02 * 1 + 0.98 * 250 = 249
+
+so the expected value of the game is positive, meaning that on average, you will make money if you play the game.
+
+however, there is a 2% chance that you will lose money, so there is some risk involved.
+
+overall, i would say that yes, margaret made the right decision to play the game."
+288,N,". 
+
+3% chance of losing 15 dollars means there is a 97% chance of NOT losing 15 dollars. 
+
+97% chance of earning 5000 dollars means there is a 3% chance of NOT earning 5000 dollars. 
+
+So, the chances of losing 15 dollars AND not earning 5000 dollars is 3% x 3% = 0.09%. 
+
+The chances of NOT losing 15 dollars AND earning 5000 dollars is 97% x 97% = 94.09%. 
+
+0.09% < 94.09%
+
+Therefore, John made the right decision."
+289,N,". the expected value of the game is:
+
+0.09 * 2 - 0.91 * 250 = -228.5
+
+so the answer is no, she should not have played the game."
+290,N,". so the expected value for this game is 
+E(X) = 0.85*300 - 0.15*3 = 255.5
+
+since 255.5 > 0, we can say that Sarah made the right decision."
+291,N,". 
+
+First, calculate the expected value of the game. This is simply the probability of each outcome multiplied by the value of that outcome. So:
+
+(0.02 * -22) + (0.98 * 450) = 8.76
+
+This means that, on average, you can expect to earn $8.76 from this game.
+
+Now, compare this to the expected value of not playing the game. If you don't play, you'll definitely earn $0. So the expected value of not playing is simply 0.
+
+Since the expected value of playing the game is greater than the expected value of not playing, you should play the game."
+292,N,". 70% of 1500 is 1050. 30% of 12 is 3.6. 1050-3.6 is 1046.4. 1046.4 is more than 12, so the answer is Y."
+293,Y,". the expected value of the game is:
+
+0.25 * 15 - 0.75 * 200 = -137.5
+
+So the answer is no, John did not make the right decision."
+294,N,". 
+
+The expected value of the game is: 
+(0.96 * 500) + (0.04 * -15) = 480 
+
+Since the expected value is positive, Sarah should play the game."
+295,N,"7% chance of earning $15 
+93% chance of losing $200 
+
+$15 is less than $200 so the answer is no"
+296,N,". 
+
+7% chance of losing 15 dollars means there is a 93% chance of not losing 15 dollars. 
+
+93% chance of earning 900 dollars means there is a 7% chance of not earning 900 dollars. 
+
+Therefore, Sarah has a 93% chance of not losing 15 dollars and a 7% chance of not earning 900 dollars. 
+
+Since the chances of not losing 15 dollars and not earning 900 dollars are greater than the chances of losing 15 dollars and earning 900 dollars, Sarah made the right decision."
+297,N,". 70% of the time she will lose $5000. So, on average, she will lose $3500. 30% of the time she will earn $25. So, on average, she will earn $7.50. Therefore, she should not play the game."
+298,N,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money that outcome corresponds to, and then adding these values together. 
+
+For Sarah to break even, she needs to earn more money than she loses. So, we need to calculate the expected value of the game and see if it is greater than 0. 
+
+The expected value of the game is: 
+
+(0.94 x -400) + (0.06 x 2) 
+= -380 + 0.12 
+= -379.88 
+
+Since the expected value of the game is less than 0, Sarah will lose money on average if she plays the game. Therefore, she did not make the right decision."
+299,Y,". so first you need to calculate the expected value which is:
+
+0.06*12 + 0.94*-7500 = -7488
+
+since the expected value is negative, it is not a good idea to play the game. Therefore, the answer is N."
+300,N,". 
+
+3% chance of losing 25 dollars means there is a 97% chance of not losing 25 dollars. 
+
+97% chance of earning 1000 dollars means there is a 3% chance of not earning 1000 dollars. 
+
+Therefore, there is a 3% chance that Michael will not earn 1000 dollars and will lose 25 dollars. 
+
+Since the chances of both happening are very low, it can be said that Michael made the right decision."
+301,N,". 
+
+85% of 10000 is 8500. 
+15% of 22 is 3.30 
+
+8500 - 3.30 = 8496.70 
+
+So yes, Susan made the right decision."
+302,N,". 97% of the time you will earn $450. 3% of the time you will lose $22. 
+
+97% of the time you will have a positive outcome. 
+3% of the time you will have a negative outcome. 
+
+Therefore, it is more likely that you will have a positive outcome than a negative outcome. 
+
+Yes, Sarah made the right decision."
+303,N,". the expected value of the game is 
+E(X)=0.1*(-3)+0.9*(900)=870.7
+so she made the right decision"
+304,N,". so first we need to calculate the expected value which is EV= (0.06)(25) + (0.94)(-400)=-14.7. So since the expected value is negative, we can say that it was not the right decision."
+305,N,". 
+
+3% of the time, he will lose $25. 
+97% of the time, he will earn $750. 
+
+3% of $25 is $0.75. 97% of $750 is $732.25. So on average, he will earn $731.50. Therefore, it was the right decision to play the game."
+306,N,". the expected value of the game is 
+(.01)(-3) + (.99)(1500) = 1497 
+so Susan made the right decision."
+307,N,". 70% of the time she will lose 900. so on average she will lose 630. 
+30% of the time she will earn 20. so on average she will earn 6. 
+6-630= -624. 
+so she made the wrong decision"
+308,N,"8% chance of losing 12 dollars means there is a 92% chance of not losing 12 dollars. 
+
+92% chance of earning 5000 dollars means there is an 8% chance of not earning 5000 dollars. 
+
+So the chances of losing 12 dollars and not earning 5000 dollars is 8% x 8% = 0.64%. 
+
+The chances of not losing 12 dollars and earning 5000 dollars is 92% x 92% = 84.64%. 
+
+0.64% < 84.64% 
+
+Therefore, it was a good decision for Michael to play the game."
+309,Y,". 
+
+There is a 15% chance that Sarah will earn 10 dollars. This means that there is an 85% chance that Sarah will lose 450 dollars. 
+
+Sarah makes the decision to play the game and ends up losing 450 dollars. 
+
+This means that Sarah made the wrong decision."
+310,Y,". The expected value of the game is
+
+E(X) = (0.3)(22) + (0.7)(-1000) = -940
+
+Since the expected value is negative, Margaret should not play the game."
+311,N,". so the first thing we need to do is calculate the expected value. so we have a 94% chance of losing 7500 dollars and a 6% chance of earning 2 dollars. so our expected value is:
+
+(94% * -7500) + (6% * 2)
+
+= -7060 + 0.12
+
+= -7059.88
+
+Therefore, since the expected value is negative, Sarah made the wrong decision."
+312,N,". 
+
+The expected value of the game is: 
+
+0.85(7500) + 0.15(-25) = 6375
+
+Since the expected value is positive, Susan should play the game."
+313,Y,". 
+
+First, we need to calculate the expected value of the game. This is done by multiplying the probability of each outcome by the amount of money that outcome corresponds to, and then adding these values together. 
+
+For this game, the expected value is: 
+
+(0.2 * 12) + (0.8 * -250) = -38 
+
+This means that, on average, you can expect to lose $38 if you play this game. 
+
+Since the expected value is negative, this means that the game is not a good bet, and you should not play it. 
+
+Therefore, the answer is ""N""."
+314,N,". so first we need to calculate the expected value which is EV= (0.15*-12)+(0.85*750) =693.5. so since 693.5>0, the expected value is positive and thus sarah should play the game."
